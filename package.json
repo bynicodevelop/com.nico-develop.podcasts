@@ -1,0 +1,16 @@
+{
+  "name": "com_nico_develop_podcasting",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "firebase emulators:start --import=./data/local/ --export-on-exit=./data/local/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
